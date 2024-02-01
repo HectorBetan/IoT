@@ -3,7 +3,8 @@
 # dependencies
 /server/node_modules
 /node_modules
-/server/aq
+/sensors/iotenv
+/server/aqenv
 /.pnp
 .pnp.js
 
